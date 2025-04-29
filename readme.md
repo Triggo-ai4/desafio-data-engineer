@@ -1,8 +1,12 @@
-# Teste Prático - Engenheiro de Dados Junior
+# Teste Técnico - Programa Trainee triggo.ai de Excelência em Engenharia de Dados e DataOps 2025
 
 ## Introdução
 
-Bem-vindo ao teste prático para a posição de Engenheiro de Dados Junior. Este teste foi desenhado para avaliar suas habilidades técnicas em Python, SQL, análise de dados e visualização.
+Chegou a hora de dar o próximo passo rumo à sua jornada no Bootcamp - Programa Trainee triggo.ai de Excelência em Engenharia de Dados e DataOps!
+Você foi selecionado para realizar o Teste Técnico, a etapa que vai colocar à prova suas habilidades técnicas (Python, SQL, Banco de Dados e lógica de programação)  em um ambiente que simula desafios reais da área de Dados. Mostre do que é capaz e destaque-se entre os melhores talentos do Brasil!
+ 
+🔍 Prepare-se, concentre-se e dê o seu melhor.
+Essa é a sua chance de mostrar por que você tem tudo para ser protagonista na transformação digital com a triggo.ai!
 
 ## Objetivo
 
